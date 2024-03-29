@@ -20,6 +20,8 @@ Before you begin, ensure you have the following tools installed on your system:
 - Node.js (version 14.x or higher)
 - npm (version 6.x or higher)
 
+- Since I am using "api.apiflash" make sure to create a free account to get your own key, and place it in the a file called ".env" at the root directory of this project.
+
 ### Installation
 
 1. Clone the repository to your local machine:
